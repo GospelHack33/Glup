@@ -1,6 +1,8 @@
 # Glup
 An AI Assistance Powered By Gemini !
 
+<img src='glup.png'>
+
 # Setup & Install Glup
 git clone https://github.com/GospelHack33/Glup
 
