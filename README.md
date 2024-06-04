@@ -3,6 +3,10 @@ An AI Assistance Powered By Gemini !
 
 <img src='glup.png'>
 
+# Requirement
+
+Python 3.9+
+
 # Setup & Install Glup
 git clone https://github.com/GospelHack33/Glup
 
